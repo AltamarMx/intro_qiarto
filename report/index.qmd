@@ -1,0 +1,22 @@
+# Introducción {.unnumbered}
+
+En este documento se analizará la irradiancia global para Temixco, Morelos. Los datos provienen de la ESOLMET del  <https://ier.unam.mx/>.
+
+Seguiremos las enseñanzas de @knuth84.
+
+# datos
+Los datos se importan usando Python en una libreta de Jupyter
+```
+import pandas as pd
+import matplotlib.pyplot as plt
+```
+
+# Día promedio anual
+
+# Energía solar diaría
+
+
+# Bibliografía {.unnumbered}
+
+::: {#refs}
+:::

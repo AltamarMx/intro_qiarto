@@ -1,0 +1,26 @@
+project:
+  type: book
+
+
+book:
+  downloads: [pdf, epub]
+  title: "Radiación solar en Temixco, Morelos, México"
+  author: 
+    - name: Guillermo Barrios
+      email: gbv@ier.unam.mx
+    - name: Diego Canul
+      email: diego@ier.unam.mx
+  date: "12/24/2023"
+  chapters:
+    - index.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

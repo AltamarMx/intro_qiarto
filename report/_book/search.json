@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Radiación solar en Temixco, Morelos, México",
+    "section": "",
+    "text": "Introducción\nEn este documento se analizará la irradiancia global para Temixco, Morelos. Los datos provienen de la ESOLMET del https://ier.unam.mx/.\nSeguiremos las enseñanzas de Knuth (1984).\n\n\ndatos\nLos datos se importan usando Python en una libreta de Jupyter\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\n\nDía promedio anual\n\n\nEnergía solar diaría\n\n\nBibliografía\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
